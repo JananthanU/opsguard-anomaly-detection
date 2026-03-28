@@ -8,7 +8,7 @@ The goal is to detect unusual behavior early, compare multiple baselines and mod
 ## Why this project matters
 
 Operational anomalies can indicate incidents, system degradation, load spikes, sensor failures, or unusual behavior in monitored services.  
-This repository focuses on a realistic and reproducible workflow instead of a toy example.
+This repository emphasizes a realistic and reproducible workflow over a simplified toy example.
 
 ## What this repository demonstrates
 
